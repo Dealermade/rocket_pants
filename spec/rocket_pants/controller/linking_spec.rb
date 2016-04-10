@@ -1,5 +1,5 @@
 require 'spec_helper'
-require 'will_paginate/collection'
+require 'rocket_pants/collection'
 
 describe RocketPants::Linking do
   include ControllerHelpers
