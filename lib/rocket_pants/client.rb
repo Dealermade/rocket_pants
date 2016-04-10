@@ -5,7 +5,7 @@ require 'active_support/core_ext/string/inflections'
 require 'rocket_pants/errors'
 
 require 'api_smith'
-require 'will_paginate/collection'
+require 'rocket_pants/collection'
 
 module RocketPants
   # Implements a generalised base for building clients on top of
