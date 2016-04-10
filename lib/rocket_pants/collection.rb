@@ -1,5 +1,5 @@
-require 'per_page'
-require 'page_number'
+require 'rocket_pants/per_page'
+require 'rocket_pants/page_number'
 
 module RocketPants
   # Any will_paginate-compatible collection should have these methods:
